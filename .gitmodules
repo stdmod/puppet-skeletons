@@ -1,0 +1,3 @@
+[submodule "skeletons/standard"]
+	path = skeletons/standard
+	url = git@github.com:stdmod/puppet-skeleton-standard.git
