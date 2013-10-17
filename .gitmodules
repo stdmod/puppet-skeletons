@@ -1,3 +1,6 @@
 [submodule "skeletons/standard"]
 	path = skeletons/standard
 	url = git@github.com:stdmod/puppet-skeleton-standard.git
+[submodule "skeletons/simple"]
+	path = skeletons/simple
+	url = https://github.com/stdmod/puppet-skeleton-simple
